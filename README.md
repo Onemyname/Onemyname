@@ -1,5 +1,5 @@
 <body>
-<h1 align="center"> Hello! I`m Vadim. Future backend-developer </h1>
+<img src="https://github.com/Onemyname/Onemyname/blob/becc44e0f7a7990bfb80f7d6a4a517c3353dbd22/header.png"/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
