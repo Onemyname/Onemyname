@@ -11,7 +11,7 @@
   <br>
   </br>
   <a href=https://t.me/onemyname>
-  <img src="https://i.ibb.co/F3J85FT/Telegram.gif" alt="Telegram" border="0"></a>
+  <img src="https://i.ibb.co/Vwr0wNy/Githubteleg.jpg" alt="Githubteleg" border="0"></a>
   </div>
 
 <h2> About me: </h2>
