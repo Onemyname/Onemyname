@@ -18,7 +18,6 @@
   <a href=https://t.me/onemyname>
   <img src="https://i.ibb.co/Vwr0wNy/Githubteleg.jpg" alt="Githubteleg"></a>
   </div>
-<div class='console-container'><span id='text'></span><div class='console-underscore' id='console'>&#95;</div></div>
 <h2> About me: </h2>
   <p> 
    <li>I`m 26 years old and live in Saint-Petersburg, Russia.</li>
