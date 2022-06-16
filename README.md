@@ -10,13 +10,11 @@
 
 <h2> About me: </h2>
 <body>
-  <p> < font color="#fa8e47">
+  <p> 
       <li>I`m 26 years old and live in Saint-Petersburg, Russia.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
   <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become a backend-developer </li>
   <li> I have been studying since January 2022. I`m learning Java and English languages </li>
-    </font>
   </p>
-    <p>Конструктор сайтов <font size="6" color="#fa8e47" face="serif">"Нубекс"</font></p>
 </body>
 
