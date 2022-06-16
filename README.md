@@ -10,8 +10,6 @@
 <div align = "center">
   <br>
   </br>
-   <br>
-  </br>
   <a href=https://t.me/onemyname>
   <img src="https://i.ibb.co/F3J85FT/Telegram.gif" alt="Telegram" border="0"></a>
   </div>
