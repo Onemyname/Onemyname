@@ -9,7 +9,7 @@
 </div>
 <div align = "center">
   <a href=https://t.me/onemyname>
-    <img src=https://drive.google.com/file/d/1XMApNmBUEDp9MvRimAsEkrdAnuF7We2F/view?usp=sharing>
+  <img src="https://i.ibb.co/4tM48Hr/Telegram.gif" alt="Telegram" border="0"></a>>
   </div>
 
 <h2> About me: </h2>
