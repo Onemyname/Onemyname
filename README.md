@@ -20,7 +20,7 @@
 
   <p class = "text">You can also contact me using Telegram:</p>
   <a href=https://t.me/onemyname>
-  <img src="https://i.ibb.co/Vwr0wNy/Githubteleg.jpg" alt="Githubteleg"></a>
+  <img src="https://github.com/Onemyname/Onemyname/blob/e822acd132efd26a1b664fa86a6bf2a2b8307b17/Githubteleg.jpg"></a>
   </div>
 
 <h2> About me: </h2>
