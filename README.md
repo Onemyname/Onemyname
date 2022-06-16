@@ -5,16 +5,7 @@
 </div>
 <br>
 </br>
-<style>
-  .upperText{
-    font-size: 24px;
-    color: #30DFC1
-  }
-  .aboutText{
-    color: #30DFC1
-  }
 
-  </style>
 <p class="upperText" align="center"> My resume:</p>
 <div  align="center">
   <a href="https://www.linkedin.com/in/vadim-konovalov-3b3793230/">
@@ -29,13 +20,9 @@
   <a href=https://t.me/onemyname>
   <img src="https://i.ibb.co/Vwr0wNy/Githubteleg.jpg" alt="Githubteleg"></a>
   </div>
+  
 <h2 class = "aboutText"> About me: </h2>
-<style>
-    .bodyText{
-    font-size: 18px;
-    color: #30DFC1  
-  }
-  </style>
+
   <p> 
    <li class= "bodyText">I`m 26 years old and live in Saint-Petersburg, Russia.</li>
   <li class= "bodyText"> I have a master`s degree in Electrical Engineering</li>
