@@ -9,7 +9,7 @@
 </div>
 <div align = "center">
   <a href=https://t.me/onemyname>
-    <img src=https://drive.google.com/file/d/1PWmGIjDt5ISoTQ1EGIDdKh4PobbrGr9g/view?usp=sharing>
+    <img src=https://drive.google.com/file/d/1XMApNmBUEDp9MvRimAsEkrdAnuF7We2F/view?usp=sharing>
   </div>
 
 <h2> About me: </h2>
