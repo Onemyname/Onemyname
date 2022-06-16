@@ -1,3 +1,4 @@
 <h1 align="center"> Hello! I`m Vadim. </h1>
-[![Onemyname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onemyname)](https://github.com/onemyname/github-readme-stats)
-![Onemyname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onemyname&show_icons=true&theme=radical)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
