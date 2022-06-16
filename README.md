@@ -1,5 +1,5 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I`m+Vadim)]
-<h3 align="center"> future backend-developer 🇷🇺</h3>
+<h1 align="center"> Hello! I`m Vadim.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F77DE2&background=FF84CD00&center=true&vCenter=true&multiline=true&height=40&lines=Future+Java-backend-developer.)](https://git.io/typing-svg)
 
 <!--
 **Onemyname/Onemyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
