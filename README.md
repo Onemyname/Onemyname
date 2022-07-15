@@ -26,7 +26,7 @@
     
  <!-- Java -->
     <a href="[https://www.oracle.com/java/technologies/introduction-to-java.html](https://www.oracle.com/java/)" target="_blank" rel="noreferrer">
-        <img src=" https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="java" width="40" height="40"/>
+        <img src="https://github.com/Onemyname/Onemyname/blob/94113c921c73018c9ef0d5d626f4a5c40ebd83dc/icons8-java.svg" alt="java" width="40" height="40"/>
     </a>   
    </p>
     
