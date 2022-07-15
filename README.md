@@ -25,7 +25,7 @@
     </a>
     
  <!-- Java -->
-    <a href="https://www.oracle.com/java/technologies/introduction-to-java.html" target="_blank" rel="noreferrer">
+    <a href="[https://www.oracle.com/java/technologies/introduction-to-java.html](https://www.oracle.com/java/)" target="_blank" rel="noreferrer">
         <img src=" https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="java" width="40" height="40"/>
     </a>   
    </p>
