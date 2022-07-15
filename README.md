@@ -7,7 +7,7 @@
 </br>
 
 <h3 align="center">Languages and Tools I use:</h3>
-
+<p align="center">
 <!-- GIT -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -17,7 +17,7 @@
     <a href="https://www.oracle.com/java/technologies/introduction-to-java.html" target="_blank" rel="noreferrer">
         <img src=" https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="java" width="40" height="40"/>
     </a>   
-   
+   </p>
     
 <p align="center"> My resume:</p>
 <div  align="center">
