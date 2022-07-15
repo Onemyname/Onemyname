@@ -1,4 +1,13 @@
 <body>
+
+  
+<img src="https://github.com/Onemyname/Onemyname/blob/becc44e0f7a7990bfb80f7d6a4a517c3353dbd22/header.png"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br>
+</br>
+
 <h2> About me: </h2>
 
   <p> 
@@ -7,13 +16,6 @@
   <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become a backend-developer </li>
   <li> I have been studying since January 2022. I`m learning Java and English languages </li>
   </p>
-  
-<img src="https://github.com/Onemyname/Onemyname/blob/becc44e0f7a7990bfb80f7d6a4a517c3353dbd22/header.png"/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<br>
-</br>
 
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
