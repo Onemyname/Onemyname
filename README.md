@@ -8,6 +8,10 @@
 <br>
 </br>
 
+<p> 
+  <li>I`m currently working on this project: https://github.com/Onemyname/CryptoAnalyzer.</li>
+
+  </p>
 <h2> About me: </h2>
 
   <p> 
