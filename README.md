@@ -19,7 +19,7 @@
   <li> I have a master`s degree in Electrical Engineering</li>
   <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become a backend-developer </li>
   <li> I have been studying since January 2022. I`m learning Java and English languages </li>
-  <li> <img src = "https://www.codewars.com/users/Onemyname/badges/large" </li>
+  <li> <img src = "https://www.codewars.com/users/Onemyname/badges/micro" </li>
   </p>
 
 <h3 align="center">Languages and Tools I use:</h3>
