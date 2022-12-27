@@ -9,7 +9,7 @@
 </br>
 
 <p> 
-  <li>I`m currently working on this project: https://github.com/Onemyname/CryptoAnalyzer.</li>
+  <li>My first Java project with MVC: https://github.com/Onemyname/CryptoAnalyzer.</li>
 
   </p>
 <h2> About me: </h2>
