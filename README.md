@@ -10,14 +10,14 @@
 
 <p> 
   <li>My first Java project with MVC: https://github.com/Onemyname/CryptoAnalyzer.</li>
-
+<li>I`m currently working on this Java project with Multithreading: https://github.com/Onemyname/Island-simulation.</li>
   </p>
 <h2> About me: </h2>
 
   <p> 
   <li>I`m 26 years old and live in Saint Petersburg Russia.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
-  <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become a backend-developer </li>
+  <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become a Android backend-developer </li>
   <li> I have been studying since January 2022. I`m learning Java and English languages </li>
   <li> <img src = "https://www.codewars.com/users/Onemyname/badges/small" </li>
   </p>
