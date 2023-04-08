@@ -10,7 +10,7 @@
 
 <p> 
   <li>My first project with MVC on Java and duplicated on Kotlin: https://github.com/Onemyname/CryptoAnalyzer</li>
-<li>I`m currently learning Kotlin</li>
+<li>I`m currently working on Habit Tracker for Android https://github.com/Onemyname/HabitTracker</li>
   </p>
 <h2> About me: </h2>
 
