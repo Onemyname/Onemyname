@@ -16,10 +16,9 @@
 <h2> About me: </h2>
 
   <p> 
-  <li>I`m 26 years old and live in Saint Petersburg Russia.</li>
+  <li>I`m 27 years old and live in Saint Petersburg Russia.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
-  <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become an Kotlin-backend-developer </li>
-  <li> I have been studying since January 2022. I`m learning Java and English languages </li>
+  <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become Android mobile developer </li>
   <li> <img src = "https://www.codewars.com/users/Onemyname/badges/small" </li>
   </p>
 
