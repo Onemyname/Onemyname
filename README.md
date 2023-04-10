@@ -16,7 +16,7 @@
 <h2> About me: </h2>
 
   <p> 
-  <li>I`m 27 years old and live in Saint Petersburg Russia.</li>
+  <li>I`m 27 years old. I am currently located in Georgia and open to relocation for job opportunities.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
   <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become Android mobile developer </li>
   <li> <img src = "https://www.codewars.com/users/Onemyname/badges/small" </li>
@@ -50,12 +50,4 @@
   <a href=https://t.me/onemyname>
   <img src="https://github.com/Onemyname/Onemyname/blob/e822acd132efd26a1b664fa86a6bf2a2b8307b17/Githubteleg.jpg"></a>
   </div>
-
-
-
-
-
 </body>
-
-
-
