@@ -8,17 +8,12 @@
 <br>
 </br>
 
-<p> 
-  <li>My first project with MVC on Java and duplicated on Kotlin: https://github.com/Onemyname/CryptoAnalyzer</li>
-<li>My first MVVM application written in Kotlin for Android https://github.com/Onemyname/HabitTracker</li>
-<li>I`m currently working on Math game for Android https://github.com/Onemyname/CompositionGame</li>
-  </p>
 <h2> About me: </h2>
 
   <p> 
-  <li>I`m 27 years old. I am currently located in Georgia and open to relocation for job opportunities.</li>
+  <li>I`m 27 years old. I am currently located in Saint Peterburg, Russia.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
-  <li> After 2 years as an Electrical Engineer I decided to achieve more and I`m planning to become Android mobile developer </li>
+  <li>I`m working now as a Java and MSA Developer in Diasoft</li>  
   <li> <img src = "https://www.codewars.com/users/Onemyname/badges/small" </li>
   </p>
 
