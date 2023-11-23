@@ -15,7 +15,8 @@
   <li> I have a master`s degree in Electrical Engineering</li>
   <li>I`m working now as a Java and MSA Developer in Diasoft</li>  
   <li> <img src = "https://www.codewars.com/users/Onemyname/badges/small" </li>
-  <li> [![streak](https://img.shields.io/endpoint?url=https://codeium.com/badges/user/severally-profitable-oxpecker-05194/streak)](https://codeium.com/profile/severally-profitable-oxpecker-05194)</li>
+  <li> <img src = "https://img.shields.io/endpoint?url=https://codeium.com/badges/user/severally-profitable-oxpecker-05194/streak" </li>
+  <li> <img src = "https://codeium.com/profile/severally-profitable-oxpecker-05194"</li>
   </p>
 
 <h3 align="center">Languages and Tools I use:</h3>
