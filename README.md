@@ -11,12 +11,9 @@
 <h2> About me: </h2>
 
   <p> 
-  <li>I`m 27 years old. I am currently located in Saint Peterburg, Russia.</li>
+  <li>I`m 28 years old. I am currently located in Saint Peterburg, Russia.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
-  <li>I`m working now as a Java and MSA Developer in Diasoft</li>  
-  <li> <img src = "https://www.codewars.com/users/Onemyname/badges/small" </li>
-  <li> <img src = "https://img.shields.io/endpoint?url=https://codeium.com/badges/user/severally-profitable-oxpecker-05194/streak" </li>
-  <li> <img src = "https://codeium.com/profile/severally-profitable-oxpecker-05194"</li>
+  <li>I`m working now as a Java Developer in Diasoft</li>  
   </p>
 
 <h3 align="center">Languages and Tools I use:</h3>
@@ -27,7 +24,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="170" height="40"/> </a>
-    <a href="https://junit.org/junit5/"> <img src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" alt="junit5" width="40" height="40"/> </a>
  
    </p>
     
