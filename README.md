@@ -13,7 +13,9 @@
   <p> 
   <li>I`m 28 years old. I am currently located in Saint Peterburg, Russia.</li>
   <li> I have a master`s degree in Electrical Engineering</li>
-  <li>I`m working now as a Java Developer in Diasoft</li>  
+  <li>I`m working now as a Java Developer in Diasoft</li>
+  <li>My leetcode statistic:</li>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
   </p>
 
 <h3 align="center">Languages and Tools I use:</h3>
@@ -27,7 +29,7 @@
  
    </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
+
 
 <p align="center"> My resume:</p>
 <div  align="center">
