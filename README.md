@@ -28,7 +28,7 @@
    </p>
 
    <p>
-     ![Leetcode Stats](https://leetcard.jacoblin.cool/Onemyname)
+     [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Onemyname)
    </p>
     
 <p align="center"> My resume:</p>
