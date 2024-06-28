@@ -26,6 +26,10 @@
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="170" height="40"/> </a>
  
    </p>
+
+   <p>
+     ![Leetcode Stats](https://leetcard.jacoblin.cool/Onemyname)
+   </p>
     
 <p align="center"> My resume:</p>
 <div  align="center">
