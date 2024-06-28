@@ -27,10 +27,8 @@
  
    </p>
 
-   <p>
-     [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Onemyname)
-   </p>
-    
+![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
+
 <p align="center"> My resume:</p>
 <div  align="center">
   <a href="https://www.linkedin.com/in/vadim-konovalov-3b3793230/">
