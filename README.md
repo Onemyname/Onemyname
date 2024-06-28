@@ -15,8 +15,8 @@
   <li> I have a master`s degree in Electrical Engineering</li>
   <li>I`m working now as a Java Developer in Diasoft</li>
   <li>My leetcode statistic:</li>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
   </p>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
 
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
