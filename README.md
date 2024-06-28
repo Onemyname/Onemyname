@@ -16,7 +16,8 @@
   <li>I`m working now as a Java Developer in Diasoft</li>
   <li>My leetcode statistic:</li>
   </p>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Onemyname?theme=dark&font=Sansita&ext=activity)
 
 <h3 align="center">Languages and Tools I use:</h3>
 <p align="center">
@@ -26,7 +27,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="170" height="40"/> </a>
- 
    </p>
 
 
